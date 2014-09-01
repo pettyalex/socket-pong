@@ -1,7 +1,7 @@
 {
   "name": "socket-pong",
   "version": "0.0.0",
-  "description": "An up to 4-player pong game using phaserjs and socketio",
+  "description": "An up to 4-player pong game using phaser and socketio",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
