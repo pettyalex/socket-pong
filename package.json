@@ -1,0 +1,15 @@
+{
+  "name": "socket-pong",
+  "version": "0.0.0",
+  "description": "An up to 4-player pong game using phaserjs and socketio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Petty",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.8.7",
+    "socket.io": "^1.0.6"
+  }
+}
